@@ -15,3 +15,11 @@
 
 </div>
 
+<br>
+<fieldset>
+<legend>Contato 📱</legend>
+
+Email:
+<a href="emailto:victoriwflb@hotmail.com"> victoriwflb@hotmail.com
+
+</fieldset>
