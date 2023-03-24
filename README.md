@@ -24,3 +24,5 @@ Email:
 <a href="emailto:victoriwflb@hotmail.com"> victoriwflb@hotmail.com
 
 </fieldset>
+
+![snake gif](https://github.com/victoriaflb/blob/output/github-contribution-grid-snake.svg)
