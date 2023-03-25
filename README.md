@@ -17,12 +17,10 @@
 
 <br>
 
-<fieldset>
+
 <legend>Contato 📱</legend>
 
 Email:
 <a href="emailto:victoriwflb@hotmail.com"> victoriwflb@hotmail.com
 
-</fieldset>
-
-[![snake gif](https://github.com/victoriaflb/blob/output/github-contribution-grid-snake.svg)]
+![Snake animation](https://github.com/victoriaflb/victoriaflb/blob/output/github-contribution-grid-snake.svg)
