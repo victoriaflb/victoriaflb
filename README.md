@@ -12,7 +12,7 @@
    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
      <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-      <img src="https://preview.redd.it/ad5pjhf1jfu81.gif?format=mp4&v=enabled&s=7287ff015cf5e3bb05c7c142ab59c9ddd2b95cb6.gif">
+      <img src="https://gifdb.com/images/file/valorant-agent-reyna-sticker-455r2w4o8k1y5d1g.gif">
 </div>
 
 <br>
