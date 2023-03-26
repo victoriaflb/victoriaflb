@@ -4,6 +4,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/elsacomunista#6462)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/victoriavector_?igshid=YmMyMTA2M2Y=)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victoriaflb)
+[![Hotmail](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=whitelink=mailto:victoriwflb@hotmail.com)](mailto:victoriwflb@hotmail.com)
 
 ![Victoria GitHub stats](https://github-readme-stats.vercel.app/api?username=victoria&show_icons=true&theme=radical)
 
