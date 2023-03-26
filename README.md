@@ -19,10 +19,4 @@
 
 <br>
 
-
-<legend>Contato 📱</legend>
-
-Email:
-<a href="emailto:victoriwflb@hotmail.com"> victoriwflb@hotmail.com
-
 ![Snake animation](https://github.com/victoriaflb/victoriaflb/blob/output/github-contribution-grid-snake.svg)
