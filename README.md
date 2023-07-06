@@ -12,8 +12,7 @@
 [![Hotmail](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=whitelink=mailto:victoriwflb@hotmail.com)](mailto:victoriwflb@hotmail.com)
 
 ![Victoria GitHub stats](https://github-readme-stats.vercel.app/api?username=victoria&show_icons=true&theme=radical)
-<br>
-<br>
+
 ## Tecnologias que eu uso no meu dia:
 
 <div style="display:flex; justify-content: center; align-items: center"><br>
