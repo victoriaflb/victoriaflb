@@ -21,11 +21,11 @@
 ## Tecnologias que eu uso no meu dia:
 
 <div style="display:flex; justify-content: center; align-items: center" height="30" width="40"><br>
-   <img alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img alt="css"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img alt="pyhton" height="30" width="40" src="https://gist.githubusercontent.com/victoriaflb/41665548fd3126bfd554fa00c8a678c6/raw/e9a33588248f3b4c45f3b327e060aed41b742a3c/python.svg">
-   <img height="30" width="40" src="https://gist.githubusercontent.com/victoriaflb/9f0fcda04363a27d2c1f0be75ffd3a5c/raw/a94754dd3c4bebdfddf97f5d67c9de23beba9a90/github.svg">
+   <img alt="html5" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img alt="css"   height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img alt="javascript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img alt="pyhton" height="40"  src="https://gist.githubusercontent.com/victoriaflb/41665548fd3126bfd554fa00c8a678c6/raw/e9a33588248f3b4c45f3b327e060aed41b742a3c/python.svg">
+   <img height="40"  src="https://gist.githubusercontent.com/victoriaflb/9f0fcda04363a27d2c1f0be75ffd3a5c/raw/a94754dd3c4bebdfddf97f5d67c9de23beba9a90/github.svg">
 
   
 
