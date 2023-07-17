@@ -26,6 +26,7 @@
    <img alt="javascript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img alt="pyhton" height="40"  src="https://gist.githubusercontent.com/victoriaflb/41665548fd3126bfd554fa00c8a678c6/raw/e9a33588248f3b4c45f3b327e060aed41b742a3c/python.svg">
    <img height="40"  src="https://gist.githubusercontent.com/victoriaflb/9f0fcda04363a27d2c1f0be75ffd3a5c/raw/a94754dd3c4bebdfddf97f5d67c9de23beba9a90/github.svg">
+   <img height="40"  src="https://gist.githubusercontent.com/victoriaflb/7cd34a0b2caf17064552a47f9143f7ca/raw/96ecbb564193bed434c9da29ac59d4e0b9bde8c1/codepen.svg">
 
   
 
