@@ -24,13 +24,10 @@
    <img alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img alt="css"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img alt="pyhton" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white">
-  <svg width="496" height="512" viewBox="0 0 496 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <img height="30" width="40" src="https://gist.githubusercontent.com/victoriaflb/9f0fcda04363a27d2c1f0be75ffd3a5c/raw/a94754dd3c4bebdfddf97f5d67c9de23beba9a90/github.svg">
+   <img alt="pyhton" height="30" width="40" src="https://gist.githubusercontent.com/victoriaflb/41665548fd3126bfd554fa00c8a678c6/raw/e9a33588248f3b4c45f3b327e060aed41b742a3c/python.svg">
+   <img height="30" width="40" src="https://gist.githubusercontent.com/victoriaflb/9f0fcda04363a27d2c1f0be75ffd3a5c/raw/a94754dd3c4bebdfddf97f5d67c9de23beba9a90/github.svg">
 
-  <img height="40" width="40" src="https://gist.githubusercontent.com/victoriaflb/9f0fcda04363a27d2c1f0be75ffd3a5c/raw/ecd50b361c3d3b58c016b2f95c2e99a7ede293ed/github.svg">
-
-
+  
 
 
         
