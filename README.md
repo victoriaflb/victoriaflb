@@ -20,12 +20,18 @@
 
 ## Tecnologias que eu uso no meu dia:
 
-<div style="display:flex; justify-content: center; align-items: center"><br>
-   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-   <img alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<div style="display:flex; justify-content: center; align-items: center" height="30" width="40"><br>
+   <img alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img alt="css"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img alt="pyhton" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white">
-   
+   <img height="30" width="40"src="https://gist.githubusercontent.com/victoriaflb/9f0fcda04363a27d2c1f0be75ffd3a5c/raw/f33fb0cffb38f399a9062b944afcdcf4be555598/github.svg">
+
+  
+
+
+
+        
 </div>
 
 <br>
@@ -34,4 +40,4 @@
 
 
 
-![Snake animation](https://github.com/victoriaflb/victoriaflb/blob/output/github-contribution-grid-snake.svg)
+
