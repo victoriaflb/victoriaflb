@@ -11,14 +11,6 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victoriaflb)
 [![Hotmail](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=whitelink=mailto:victoriwflb@hotmail.com)](mailto:victoriwflb@hotmail.com)
 
-<div align="left">
-  <a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://spotify-readme-u8sa.vercel.app//api?theme=dark" alt="Música Atual no Spotify">
-</a>
-</div>
-
-
-
 
 ![Victoria GitHub stats](https://github-readme-stats.vercel.app/api?username=victoria&show_icons=true&theme=radical)
 
