@@ -18,7 +18,7 @@
 
 <div style="displax:flex; flex-direction: row;justify-content: space-between">
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=victoriaflb&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img style="margin-left:3rem" height="100em" src="https://gifer.com/8Xsx"/>
+  <img style="margin-left:3rem" height="100em" src="https://gifer.com/8Xsx.gif"/>
   
 </div>
 
