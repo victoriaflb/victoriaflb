@@ -18,7 +18,7 @@
 
 <div style="displax:flex; flex-direction: row;justify-content: space-between">
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=victoriaflb&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img style="margin-left:3rem" height="100em" src="https://gifer.com/8Xsx.gif"/>
+  <img  height="50em" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwifflegif.com%2Ftags%2F134311-gake-no-ue-no-ponyo-gifs&psig=AOvVaw2IZ-ej52_D3pFfz_Xpto2I&ust=1698416154816000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIC7xq7zk4IDFQAAAAAdAAAAABAJ"/>
   
 </div>
 
