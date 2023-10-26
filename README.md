@@ -16,7 +16,7 @@
 
 
 
-<div >
+<div style="displax:flex; flex-direction: row">
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=victoriaflb&layout=compact&langs_count=7&theme=tokyonight"/>
   <img height="150em" src="https://static.wikia.nocookie.net/super-mario-64-official/images/c/c4/PowerStar.gif/revision/latest?cb=20160401222618"/>
   
