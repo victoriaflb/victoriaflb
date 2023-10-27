@@ -1,6 +1,4 @@
-### Olá! eu sou a Victória <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-
-
+## Olá! eu sou a Victória  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 
 <img align="right" height="540em" src="https://gist.githubusercontent.com/victoriaflb/45f6c68cc6d5bd323dc2cdfb3501273c/raw/2d335190019b7716dcc277e56c4ad10f2a9cea90/perfil-card.svg" style="display: flex; justify-content: center; float: right;">
