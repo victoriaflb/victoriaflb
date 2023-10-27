@@ -49,7 +49,7 @@
 
 <br>
 
-<img loop="true" src="https://assets.super.so/7ed66408-f6af-4cc2-812c-47e7eb84522c/images/bf2cea09-463f-4c52-a7c1-403939a23f82/night_valley.png?w=1500&f=webp">
+
 
 
 
