@@ -26,10 +26,11 @@
 
 <br>
 <br>
+<br>
+<br>
+<h2 align="center">Tecnologias que eu uso no meu dia:</h2> 
 
-## Tecnologias que eu uso no meu dia:
-
-<div style="display:flex; justify-content: center; align-items: center" height="30" width="40"><br>
+<div align="center"  style="display:flex; justify-content: center; height="30"; width="40"><br>
    <img alt="html5" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img alt="css"   height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img alt="javascript" height="40" src="https://gist.githubusercontent.com/victoriaflb/9d2bd432bcd753a047f903c917fb8803/raw/d183ace5483667c8bbe87939ec54726f6210e997/js.svg">
