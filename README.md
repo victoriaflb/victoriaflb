@@ -28,7 +28,7 @@
 <br>
 <br>
 <br>
-<h2 align="center">Tecnologias que eu uso no meu dia:</h2> 
+<h1 align="center">Tecnologias que eu uso no meu dia:</h1> 
 
 <div align="center"  style="display:flex; justify-content: center; height="30"; width="40"><br>
    <img alt="html5" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
