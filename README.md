@@ -4,7 +4,7 @@
 
 
 
-<img align="right" height="540em" src="https://gist.githubusercontent.com/victoriaflb/3b3695c75f64f60274a08c483b4b1a0f/raw/d0969da295ffad6af34a89e1b1f97d1bcfb75743/cardgengar.svg" style="display: flex; justify-content: center; float: right;">
+<img align="right" height="540em" src="https://gist.githubusercontent.com/victoriaflb/3b3695c75f64f60274a08c483b4b1a0f/raw/a4fe204c95c40fd014e8cea1c86803d8c1c69f69/cardgengar.svg" style="display: flex; justify-content: center; float: right;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-vict%C3%B3ria-farias-683810261)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/elsacomunista#6462)
