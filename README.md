@@ -18,7 +18,7 @@
 
 
 <div style="displax:flex; flex-direction: row;justify-content: space-between; gap:1rem">
-  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=victoriaflb&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="100em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=victoriaflb&layout=compact&langs_count=7&theme=tokyonight"/>
   <img height="100em" src="https://custom-doodle.com/wp-content/uploads/doodle/howls-moving-castle-cute-calcifer/howls-moving-castle-cute-calcifer-doodle.gif"/>
   
 </div>
