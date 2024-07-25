@@ -28,6 +28,7 @@
 <br>
 <br>
 <br>
+<br>
 <h1 align="center">Tecnologias que eu uso no meu dia:</h1> 
 
 <div align="center"  style="display:flex; justify-content: center; height="30"; width="40"><br>
