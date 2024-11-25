@@ -46,7 +46,7 @@
     <img alt="java" height="40" src="https://gist.githubusercontent.com/victoriaflb/77b5480d04dca4522ce33ac7d533c346/raw/f564163d4c10c5669788e38366c889175f2cc4fe/java.svg">
     <img alt="flutter" height="40" src="https://gist.githubusercontent.com/victoriaflb/7d947a608e5004df3b0e47d28f52db83/raw/1d72e5b0cd8eaa6933a788c2c53a171106b8e52e/flutter.svg">
 
-    https://gist.githubusercontent.com/victoriaflb/ae6d81fe72aecd3ca824fce7504154c1/raw/20fa99aba7815480279fd6f0da2d47b8b222cb9f/linux2.svg
+
 
   
   <img height="50" src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif">
