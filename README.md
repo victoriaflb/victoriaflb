@@ -12,8 +12,8 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victoriaflb)
 
 
+![Victoria GitHub stats](https://github-readme-stats.vercel.app/api?username=victoriaflb&show_icons=true&theme=radical)
 
-![Victoria GitHub stats](https://github-readme-stats.vercel.app/api?username=victoria&show_icons=true&theme=radical)
 
 
 
