@@ -2,7 +2,7 @@
 
 
 <div style="displax:flex; flex-direction: row;justify-content: space-between; gap:1rem">
-  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victoriaflb&theme=github_dark" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victoriaflb&theme=github_dark" />
 <img align="right" height="400em" src="https://gist.githubusercontent.com/victoriaflb/3b3695c75f64f60274a08c483b4b1a0f/raw/a4fe204c95c40fd014e8cea1c86803d8c1c69f69/cardgengar.svg" style="display: flex; justify-content: center; float: right;">
 </div>
 
@@ -10,7 +10,11 @@
 
 
 
-
+<div style="displax:flex; flex-direction: row;justify-content: space-between; gap:1rem">
+  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=victoriaflb&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="130em" src="https://custom-doodle.com/wp-content/uploads/doodle/howls-moving-castle-cute-calcifer/howls-moving-castle-cute-calcifer-doodle.gif"/>
+  
+</div>
 
 
 
@@ -27,11 +31,7 @@
 
 
 
-<div style="displax:flex; flex-direction: row;justify-content: space-between; gap:1rem">
-  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=victoriaflb&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="130em" src="https://custom-doodle.com/wp-content/uploads/doodle/howls-moving-castle-cute-calcifer/howls-moving-castle-cute-calcifer-doodle.gif"/>
-  
-</div>
+
 <br>
 
 <br>
