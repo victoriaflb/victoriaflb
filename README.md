@@ -2,7 +2,7 @@
 
 
 <div style="displax:flex; flex-direction: row;justify-content: space-between; gap:1rem">
-  <img height="100em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victoriaflb&theme=github_dark" />
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victoriaflb&theme=github_dark" />
 <img align="right" height="400em" src="https://gist.githubusercontent.com/victoriaflb/3b3695c75f64f60274a08c483b4b1a0f/raw/a4fe204c95c40fd014e8cea1c86803d8c1c69f69/cardgengar.svg" style="display: flex; justify-content: center; float: right;">
 </div>
 
