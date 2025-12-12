@@ -1,13 +1,13 @@
 <h1 align="center"> Olá! eu sou a Victória  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
 
-<div style="display:flex; height:100em;">
+<div style="displax:flex; flex-direction: row;justify-content: space-between; gap:1rem">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victoriaflb&theme=github_dark" />
+<img align="right" height="465em" src="https://gist.githubusercontent.com/victoriaflb/3b3695c75f64f60274a08c483b4b1a0f/raw/a4fe204c95c40fd014e8cea1c86803d8c1c69f69/cardgengar.svg" style="display: flex; justify-content: center; float: right;">
 </div>
 
 
 
-<img align="right" height="500em" src="https://gist.githubusercontent.com/victoriaflb/3b3695c75f64f60274a08c483b4b1a0f/raw/a4fe204c95c40fd014e8cea1c86803d8c1c69f69/cardgengar.svg" style="display: flex; justify-content: center; float: right;">
 
 
 
